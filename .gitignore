@@ -1,0 +1,9 @@
+venv/
+gcloud2/
+__pycache__/
+*.pyc
+key.json
+*-key.json
+http-client
+client_output.txt
+curl_output.txt
